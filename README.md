@@ -16,3 +16,9 @@ O projeto é composto pelas seguintes classes:
 - **Buscar Contato**: Busca um contato pelo nome ou número de telefone.
 - **Remover Contato**: Remove um contato pelo nome ou número de telefone.
 - **Listar Contatos**: Exibe todos os contatos cadastrados.
+
+- ## Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone 
