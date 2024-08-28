@@ -37,7 +37,6 @@ O projeto é composto pelas seguintes classes:
 ## Requisitos
 - Java 8 ou superior
 
-- 
+  
 Esse `README.md` fornece uma visão geral clara do projeto, descreve as funcionalidades, e orienta sobre como executar o sistema.
-
 
