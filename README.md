@@ -34,7 +34,7 @@ O projeto é composto pelas seguintes classes:
 4. Interaja com o sistema:
    O programa apresentará um menu de opções que permite adicionar, buscar, remover e listar contatos. Utilize as opções disponíveis para gerenciar os contatos. 
 
-# Requisitos
+## Requisitos
 - Java 8 ou superior
 
 - 
