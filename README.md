@@ -22,3 +22,22 @@ O projeto é composto pelas seguintes classes:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Sabrinawsf/Sistematizacao_POO2/tree/master/Sistematizacao_POO2
+
+2. Compile o Projeto
+- Navegue até o diretório do projeto e compile os arquivos **.java**:
+ javac *.java
+
+3. Execute o projeto:
+   Após compilar, execute o arquivo principal **ContactManager**:
+   java ContactManager
+   
+4. Interaja com o sistema:
+   O programa apresentará um menu de opções que permite adicionar, buscar, remover e listar contatos. Utilize as opções disponíveis para gerenciar os contatos. 
+
+# Requisitos
+- Java 8 ou superior
+
+- 
+Esse `README.md` fornece uma visão geral clara do projeto, descreve as funcionalidades, e orienta sobre como executar o sistema.
+
+
