@@ -21,4 +21,4 @@ O projeto é composto pelas seguintes classes:
 
 1. Clone o repositório:
    ```bash
-   git clone 
+   git clone https://github.com/Sabrinawsf/Sistematizacao_POO2/tree/master/Sistematizacao_POO2
